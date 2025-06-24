@@ -1,4 +1,4 @@
-## Hi there, I’m I M Yousafzai 👋
+## Hi there, I M Yousafzai 👋
 
 FinTech & Full-Stack Web Developer with **13+ years** of experience crafting responsive web applications and advanced algorithmic trading platforms. I specialize in **technical analysis**, **algorithmic trading**, and **financial education solutions** that empower traders worldwide.
 
