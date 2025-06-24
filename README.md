@@ -8,7 +8,7 @@ FinTech & Full-Stack Web Developer with **13+ years** of experience crafting res
 
 * **Website:** [imYousafzai.com](https://imyousafzai.com/)
 * **GitHub:** [github.com/imYousafzai](https://github.com/immy2good)
-* **LinkedIn:** [linkedin.com/in/imyousafzai](https://www.linkedin.com/in/imran-yousafzai/)
+* **LinkedIn:** [linkedin.com/in/imyousafzai](https://www.linkedin.com/in/immy-yousafzai/)
 * **Email:** [info@imyousafzai.com](mailto:info@imyousafzai.com)
 * **Location:** Birmingham, UK
 
