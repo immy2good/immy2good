@@ -68,4 +68,4 @@ I’m always open to new FinTech and Web Development opportunities, algorithmic 
 
 ---
 
-*© 2025 I M Yousafzai*
+*© 2026 I M Yousafzai*
