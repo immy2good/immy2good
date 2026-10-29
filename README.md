@@ -1,71 +1,64 @@
-## Hi there, I M Yousafzai 👋
+# Hi, I'm Immy Yousafzai 👋
 
-FinTech & Full-Stack Web Developer with **13+ years** of experience crafting responsive web applications and advanced algorithmic trading platforms. I specialize in **technical analysis**, **algorithmic trading**, and **financial education solutions** that empower traders worldwide.
+**Founder of iTradeAIMS since 2011 · MQL5/MT5 Expert Advisors · TradingView Pine Script · AI agent automation**
 
----
+I build trading tools and the systems around them, from MetaTrader Expert Advisors and Pine Script indicators to licensing, payments, member access and the AI agent workflows I use to ship it all. Based in Birmingham, UK, and working remotely.
 
-### 🌐 Portfolio & CV
-
-* **Website:** [imYousafzai.com](https://imyousafzai.com/)
-* **GitHub:** [github.com/imYousafzai](https://github.com/immy2good)
-* **LinkedIn:** [linkedin.com/in/imyousafzai](https://www.linkedin.com/in/immy-yousafzai/)
-* **Email:** [info@imyousafzai.com](mailto:info@imyousafzai.com)
-* **Location:** Birmingham, UK
+[![Website](https://img.shields.io/badge/Website-imyousafzai.com-0A66C2?style=flat-square)](https://imyousafzai.com)
+[![iTradeAIMS](https://img.shields.io/badge/iTradeAIMS-itradeaims.net-1F8A70?style=flat-square)](https://itradeaims.net)
+[![TradingView](https://img.shields.io/badge/TradingView-iTradeAIMS-131722?style=flat-square&logo=tradingview&logoColor=white)](https://www.tradingview.com/u/iTradeAIMS/)
+[![YouTube](https://img.shields.io/badge/YouTube-iTradeAIMS-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/itradeaims)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Immy%20Yousafzai-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immy-yousafzai/)
 
 ---
 
-### 🧰 Tech & Tools
+## 📊 Proof you can check
 
-**Frontend & UI:** HTML5, CSS3, JavaScript (ES6+), React, Next.js, Tailwind CSS, Bootstrap
-**Backend & CMS:** Node.js, PHP, WordPress, WooCommerce, RESTful APIs
-**Trading & Analysis:** PineScript, MQL4/5, Algorithmic Trading, Elliott Wave Theory
-**DevOps & Platforms:** Docker, AWS, Git, Trello, Notion, Jira, Stripe Integration
+| Where | What |
+|---|---|
+| **iTradeAIMS** (since 2011) | 21 indicators and 8 Expert Advisors for MT4, MT5 and TradingView, with documentation, a members area and an AI helper called iMi |
+| **TradingView** (since 2014) | Premium account: 11 public scripts (plus many private and invite-only), 1.5K followers, 243 published ideas |
+| **YouTube** | 4.67K subscribers and 537 videos, including an Elliott Wave tutorial with 128K views |
+| **GitHub** | 17K+ contributions in the past year, mostly in private product repos |
 
----
+## 🛠️ What I build
 
-### 💼 Experience
+- **MQL5/MQL4 Expert Advisors and indicators**: entries, exits, trade management, risk limits and account-number licensing
+- **TradingView Pine Script**: indicators, strategies and alert-driven automation into MetaTrader
+- **EA licensing and code protection**: licences issued after purchase and shown in a member portal
+- **AI agent automation**: agent workflows with versioned skills, guardrails, tests and human sign-off
+- **WordPress membership and e-commerce**: logins, billing, licences tied to orders, courses and support
 
-**Founder | FinTech & Full-Stack Web Developer**
-Birmingham, UK | 2011–Present
+## 🔒 Selected work (private repos)
 
-* Founded and led development of **iTradeAIMS**, a FinTech education platform with real-time analysis tools, algorithmic signals, Elliott Wave modules, and live community integration built on React & Node.js.
-* Published **100+ Pine Script indicators** on TradingView (1.2K+ followers, 240+ ideas), including oscillators, trend detectors, and automated pattern recognizers.
-* Engineered **MQL4/MQL5 Expert Advisors** (e.g., “Banana EA”) for MetaTrader, featuring plug‑and‑play automation, smart risk management, and 24/5 execution.
-* Designed and deployed responsive e‑commerce and corporate websites (e.g., Bewdley Farm Shop, Splashbacks Birmingham) using WordPress, WooCommerce, PHP, and Bricks Builder, with custom SEO and subscription systems.
+- **AIMS Confluence**: MT5 trading indicator, 164 merged pull requests
+- **EA licensing and code protection (MT4/MT5)**: licensing system for commercial EAs, 243 merged pull requests (archived Sep 2026)
+- **AIMStack**: my agent engineering setup, with versioned agent skills, guardrails and closeout checks, 201 merged pull requests
+- **iTradeAIMS content**: content and documentation repo, 423 merged pull requests
+- **my.itradeaims.net**: members site with licences tied to orders, billing, courses and support
+- **ChartBridge (BrumByte)**: trading domain lead and MQL4/MQL5 developer on a TradingView-to-MetaTrader bridge built with a small team. I owned the trading side (the MT4 and MT5 EAs and MetaTrader integration) and end-to-end testing, and contributed to the React/Next.js front end.
 
----
+The code is private, but I'm happy to walk through any of it on a call.
 
-### 🎓 Education
+## 🧰 Tech
 
-* **BSc Computer Science (Level 4)**, University of London (2024–Present)
-* **MBA**, Institute of Management Studies (2000–2002)
-* **BBA**, Preston University, USA (1998–2000)
+**Trading:** MQL5 · MQL4 · MetaTrader 4/5 · Pine Script · TradingView  
+**AI and automation:** Codex · Claude Code · Cursor · MCP · agent skills · Python · PyTorch · ONNX  
+**Web:** TypeScript · React · Next.js · Node.js · PHP · Laravel · WordPress · WooCommerce · Stripe · REST APIs  
+**Ops:** Docker · GitHub Actions · AWS · Git
 
----
+## 💼 Experience
 
-### 🚀 Featured Projects
+**Founder and developer, iTradeAIMS** · Birmingham, UK · 2011 to present
+- Run a trading tools and education brand with indicators, EAs, docs and a members area.
+- Built the EA licensing and code-protection system for MT4/MT5.
+- Run an AI agent workflow with versioned skills, guardrails and review checks for day-to-day development.
 
-* **iTradeAIMS**
-  A FinTech education platform with live analysis, algorithmic signals, and Elliott Wave modules. [Live Site](https://itradeaims.net/)
-* **TradingView Pine Script Indicators**
-  100+ custom indicators and strategies (oscillators, fractals, wave analysis) on TradingView. [Profile](https://www.tradingview.com/)
-* **MetaTrader Automation Bots**
-  Expert Advisors in MQL4/5 for automated Forex trading (e.g., “Banana EA”). [Guide](https://github.com/IMYousafzai)
-* **E-Commerce Websites**
-  Built on WordPress/WooCommerce for local businesses (Bewdley Farm Shop, Splashbacks Birmingham) with Stripe integration.
+**Co-founder, BrumByte** · 2024 to present <!-- TODO Immy: confirm title and dates (Upwork says Co-Founder, Jan 2024). -->
+- Trading domain lead and MQL4/MQL5 developer on ChartBridge, a TradingView-to-MetaTrader bridge built with a small team.
+- Owned the MT4/MT5 EAs and MetaTrader integration, and tested the full signal path end to end across the repos.
+- Contributed to the React/Next.js front end.
 
----
+## 🤝 Work with me
 
-### 📫 Get in Touch
-
-I’m always open to new FinTech and Web Development opportunities, algorithmic trading collaborations, and technical analysis consulting. Let’s connect!
-
-[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link)
-
-* **Email:** [info@imyousafzai.com](mailto:info@imyousafzai.com)
-* **Website:** [imyousafzai.com](https://imyousafzai.com/)
-* **LinkedIn:** [linkedin.com/in/imran-yousafzai](https://www.linkedin.com/in/imyousafzai/)
-
----
-
-*© 2026 I M Yousafzai*
+Open to UK remote roles and freelance work in MQL5/MT5, Pine Script and AI automation. Get in touch through [imyousafzai.com](https://imyousafzai.com) or LinkedIn.
